@@ -1,0 +1,14 @@
+{
+  "name": "binancemoduleapitest",
+  "version": "0.0.1",
+  "description": "Just a test of the Binance Node Module for their API. Also practicing github.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Sampson",
+  "license": "ISC",
+  "dependencies": {
+    "node-binance-api": "^0.8.6"
+  }
+}
