@@ -12,3 +12,5 @@ function findPriceETH(){
 };
 
 findPriceETH();
+
+setInterval(findPriceETH, 500);
